@@ -1,3 +1,1 @@
 # Terraform-AWS_S3_Static_Website_Hosting
-# Terraform-AWS_S3_Static_Website_Hosting
-# Terraform-AWS_S3_Static_Website_Hosting
